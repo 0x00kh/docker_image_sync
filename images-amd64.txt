@@ -1,3 +1,4 @@
 # 支持指定架构
 jenkins/jenkins:2.462.2-jdk17
---platform=linux/amd64 jenkins/jenkins:2.462.2-jdk17
+kiwigrid/k8s-sidecar:1.27.6
+bats/bats:1.11.0
