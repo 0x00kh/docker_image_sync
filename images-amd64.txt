@@ -5,4 +5,4 @@ bats/bats:1.11.0
 postgres:11
 gitlab/gitlab-runner:latest
 nginx:1.26.2
-ingress-nginx/controller:v1.11.3
+registry.k8s.io/ingress-nginx/controller:v1.11.3
